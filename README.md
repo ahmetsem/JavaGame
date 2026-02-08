@@ -1,6 +1,6 @@
 2D Game development project using Java language.
 
-To run the game, run on the file called Game.Java in src package.
+To run the game, run on the file called Game.java in src package.
 
 BRAVE CHICKEN 
 
